@@ -1,0 +1,6 @@
+{
+  "name": "Volumetric Particle Orb",
+  "description": "Interactive 3D three-layer monochrome volumetric particle sphere built with Next.js, TypeScript, Three.js, React Three Fiber, and custom GLSL shaders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
